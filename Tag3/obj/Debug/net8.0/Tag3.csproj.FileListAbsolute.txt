@@ -1,0 +1,17 @@
+c:\Programmieren\AdventOfCode\Tag3\bin\Debug\net8.0\Tag3.exe
+c:\Programmieren\AdventOfCode\Tag3\bin\Debug\net8.0\input.txt
+c:\Programmieren\AdventOfCode\Tag3\bin\Debug\net8.0\example.txt
+c:\Programmieren\AdventOfCode\Tag3\bin\Debug\net8.0\Tag3.deps.json
+c:\Programmieren\AdventOfCode\Tag3\bin\Debug\net8.0\Tag3.runtimeconfig.json
+c:\Programmieren\AdventOfCode\Tag3\bin\Debug\net8.0\Tag3.dll
+c:\Programmieren\AdventOfCode\Tag3\bin\Debug\net8.0\Tag3.pdb
+c:\Programmieren\AdventOfCode\Tag3\obj\Debug\net8.0\Tag3.GeneratedMSBuildEditorConfig.editorconfig
+c:\Programmieren\AdventOfCode\Tag3\obj\Debug\net8.0\Tag3.AssemblyInfoInputs.cache
+c:\Programmieren\AdventOfCode\Tag3\obj\Debug\net8.0\Tag3.AssemblyInfo.cs
+c:\Programmieren\AdventOfCode\Tag3\obj\Debug\net8.0\Tag3.csproj.CoreCompileInputs.cache
+c:\Programmieren\AdventOfCode\Tag3\obj\Debug\net8.0\Tag3.sourcelink.json
+c:\Programmieren\AdventOfCode\Tag3\obj\Debug\net8.0\Tag3.dll
+c:\Programmieren\AdventOfCode\Tag3\obj\Debug\net8.0\refint\Tag3.dll
+c:\Programmieren\AdventOfCode\Tag3\obj\Debug\net8.0\Tag3.pdb
+c:\Programmieren\AdventOfCode\Tag3\obj\Debug\net8.0\Tag3.genruntimeconfig.cache
+c:\Programmieren\AdventOfCode\Tag3\obj\Debug\net8.0\ref\Tag3.dll
