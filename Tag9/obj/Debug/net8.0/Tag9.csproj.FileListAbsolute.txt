@@ -1,0 +1,17 @@
+C:\Programmieren\AdventOfCode\Tag9\bin\Debug\net8.0\Tag9.exe
+C:\Programmieren\AdventOfCode\Tag9\bin\Debug\net8.0\Tag9.deps.json
+C:\Programmieren\AdventOfCode\Tag9\bin\Debug\net8.0\Tag9.runtimeconfig.json
+C:\Programmieren\AdventOfCode\Tag9\bin\Debug\net8.0\Tag9.dll
+C:\Programmieren\AdventOfCode\Tag9\bin\Debug\net8.0\Tag9.pdb
+C:\Programmieren\AdventOfCode\Tag9\obj\Debug\net8.0\Tag9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programmieren\AdventOfCode\Tag9\obj\Debug\net8.0\Tag9.AssemblyInfoInputs.cache
+C:\Programmieren\AdventOfCode\Tag9\obj\Debug\net8.0\Tag9.AssemblyInfo.cs
+C:\Programmieren\AdventOfCode\Tag9\obj\Debug\net8.0\Tag9.csproj.CoreCompileInputs.cache
+C:\Programmieren\AdventOfCode\Tag9\obj\Debug\net8.0\Tag9.sourcelink.json
+C:\Programmieren\AdventOfCode\Tag9\obj\Debug\net8.0\Tag9.dll
+C:\Programmieren\AdventOfCode\Tag9\obj\Debug\net8.0\refint\Tag9.dll
+C:\Programmieren\AdventOfCode\Tag9\obj\Debug\net8.0\Tag9.pdb
+C:\Programmieren\AdventOfCode\Tag9\obj\Debug\net8.0\Tag9.genruntimeconfig.cache
+C:\Programmieren\AdventOfCode\Tag9\obj\Debug\net8.0\ref\Tag9.dll
+c:\Programmieren\AdventOfCode\Tag9\bin\Debug\net8.0\input.txt
+c:\Programmieren\AdventOfCode\Tag9\bin\Debug\net8.0\example.txt

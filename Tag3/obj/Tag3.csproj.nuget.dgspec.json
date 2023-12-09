@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Programmieren\\AdventOfCode\\Tag3\\Tag3.csproj": {}
+    "C:\\Programmieren\\AdventOfCode\\Tag3\\Tag3.csproj": {}
   },
   "projects": {
-    "c:\\Programmieren\\AdventOfCode\\Tag3\\Tag3.csproj": {
+    "C:\\Programmieren\\AdventOfCode\\Tag3\\Tag3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Programmieren\\AdventOfCode\\Tag3\\Tag3.csproj",
+        "projectUniqueName": "C:\\Programmieren\\AdventOfCode\\Tag3\\Tag3.csproj",
         "projectName": "Tag3",
-        "projectPath": "c:\\Programmieren\\AdventOfCode\\Tag3\\Tag3.csproj",
+        "projectPath": "C:\\Programmieren\\AdventOfCode\\Tag3\\Tag3.csproj",
         "packagesPath": "C:\\Users\\AdminBS\\.nuget\\packages\\",
-        "outputPath": "c:\\Programmieren\\AdventOfCode\\Tag3\\obj\\",
+        "outputPath": "C:\\Programmieren\\AdventOfCode\\Tag3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\AdminBS\\AppData\\Roaming\\NuGet\\NuGet.Config"
