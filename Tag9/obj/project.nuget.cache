@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "d+wxEqac274zhdQqe/UsU6FIDzhTNJ2OhkOSYWzSBHPhNrMBY2Ys0Om5QCuqvMtFeVdaRzMpLrVPZH327KaPmw==",
+  "dgSpecHash": "LghH3ml4nDZCIUQl6Fc83SY59s55GBkQUle5E5/4zzWMLGO6kVwnwUfskWnhKTH4csUG//YB1G3ZBw0fdLu3Xw==",
   "success": true,
-  "projectFilePath": "c:\\Programmieren\\AdventOfCode\\Tag9\\Tag9.csproj",
+  "projectFilePath": "C:\\Programmieren\\AdventOfCode\\Tag9\\Tag9.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
